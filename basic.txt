@@ -2,3 +2,8 @@ made a repo on github
 made a new folder on gitbash "mkdir"
 made 4 new files on gitbash (basic.txt, basic.css, basic.html, basic.js) "touch"
 updated all 4 files "code"
+initialized repo "git init"
+accesed github repo "git remote add"
+add files "git add ."
+commited files "git commit"
+push files to repo on github "git push -u"
